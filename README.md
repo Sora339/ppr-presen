@@ -17,3 +17,11 @@ Ok to proceed? (y) y
 √ What import alias would you like configured? ... @/*
 Creating a new Next.js app in C:\Users\xzhou\Development\ppr-presen.
 ```
+--------------------------------------------------------------------------------
+
+## このプロジェクトの遊び方
+パッケージインストール
+```
+npm i
+```
+

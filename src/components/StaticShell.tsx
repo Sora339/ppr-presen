@@ -8,7 +8,7 @@ interface StaticShellProps {
 // 静的シェルコンポーネント - ビルド時に生成される
 export async function StaticShell({ children }: StaticShellProps) {
   // 静的シェルの遅延をシミュレート（ビルド時間を表現）
-  await new Promise((resolve) => setTimeout(resolve, 500));
+  await new Promise((resolve) => setTimeout(resolve, 1000));
   
   const staticTimestamp = new Date().toISOString();
 

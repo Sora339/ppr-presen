@@ -99,7 +99,7 @@ export default function Home() {
             </div>
 
             <Link 
-              href="/ssg"
+              href="/static"
               className="block w-full text-center bg-green-600 text-white py-3 px-6 rounded-lg hover:bg-green-700 transition-colors font-semibold"
             >
               SSG デモを見る
